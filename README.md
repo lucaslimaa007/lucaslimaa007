@@ -40,4 +40,3 @@
 
 # Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/{lucaslimaa007}/count.svg)
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Flucaslimaa007&label=VISITORS&labelColor=%23697689&countColor=%2337d67a&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flucaslimaa007)
