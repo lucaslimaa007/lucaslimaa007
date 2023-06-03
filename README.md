@@ -31,11 +31,14 @@
 <br />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lucaslimaa007&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucaslimaa007&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimaa007&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaslimaa007&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lucaslimaa007" /></p>
 
-## ✍️ Dev Quote of the Day
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslimaa007&show_icons=true&theme=dracula&locale=en" alt="lucaslimaa007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslimaa007&theme=dark" alt="lucaslimaa007" /></p>
+
+
+# ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # Visitors Count
